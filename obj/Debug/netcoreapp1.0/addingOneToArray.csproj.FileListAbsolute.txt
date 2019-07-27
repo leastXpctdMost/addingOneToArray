@@ -1,0 +1,9 @@
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/bin/Debug/netcoreapp1.0/addingOneToArray.deps.json
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/bin/Debug/netcoreapp1.0/addingOneToArray.runtimeconfig.json
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/bin/Debug/netcoreapp1.0/addingOneToArray.runtimeconfig.dev.json
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/bin/Debug/netcoreapp1.0/addingOneToArray.dll
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/bin/Debug/netcoreapp1.0/addingOneToArray.pdb
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/obj/Debug/netcoreapp1.0/addingOneToArray.csprojResolveAssemblyReference.cache
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/obj/Debug/netcoreapp1.0/addingOneToArray.AssemblyInfo.cs
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/obj/Debug/netcoreapp1.0/addingOneToArray.dll
+/Users/pf/Documents/C_Sharp_Practice/addingOneToArray/obj/Debug/netcoreapp1.0/addingOneToArray.pdb
